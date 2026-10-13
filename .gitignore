@@ -1,0 +1,9 @@
+﻿.settings/
+build/
+*.class
+*.log
+node_modules/
+target/
+.env
+.env.*
+!.env.example
